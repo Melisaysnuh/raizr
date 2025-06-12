@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/etymology_utils.py
+src/word_db.py
+src/raizr.egg-info/PKG-INFO
+src/raizr.egg-info/SOURCES.txt
+src/raizr.egg-info/dependency_links.txt
+src/raizr.egg-info/top_level.txt
